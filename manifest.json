@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Cardinal direction armour stand is facing",
+        "name": "Armour_Stand_Cardnial",
+        "uuid": "44445098-b512-40dc-9414-20e4aff3f181",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 19, 30 ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "c336747c-48fb-4877-9135-ea32df25f73d",
+            "version": [0, 0, 1]
+        }
+    ]
+}
